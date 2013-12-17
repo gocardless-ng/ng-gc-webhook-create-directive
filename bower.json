@@ -1,0 +1,27 @@
+{
+  "name": "ng-gc-webhook-create-directive",
+  "version": "0.1.0",
+  "main": "ng-gc-webhook-create-directive.js",
+  "dependencies": {
+    "angular": "~1.2.5",
+    "angular-route": "~1.2.5",
+    "ng-gc-alert-directive": "git://github.com/gocardless-ng/ng-gc-alert-directive.git",
+    "bower-lodash-angular": "git://github.com/gocardless-client/bower-lodash-angular.git",
+    "ng-gc-input-error-directive": "git://github.com/gocardless-ng/ng-gc-input-error-directive.git"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.2.5",
+    "jasmine-helpers": "git@github.com:gocardless/jasmine-helpers.git"
+  },
+  "ignore": [
+    "**/.*",
+    "*/*spec.js",
+    "circle.yml",
+    "vendor-components.json",
+    "node_modules",
+    "components",
+    "package.json",
+    "Gruntfile.js",
+    "karma.conf.js"
+  ]
+}

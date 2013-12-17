@@ -1,0 +1,9 @@
+[
+  "components/angular/angular.js",
+  "components/angular-route/angular-route.js",
+  "components/ng-gc-alert-directive/ng-gc-alert-directive.js",
+  "components/bower-lodash-angular/lodash.custom.js",
+  "components/angular-mocks/angular-mocks.js",
+  "components/jasmine-helpers/*.js",
+  "src/**/*.spec.js"
+]
